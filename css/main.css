@@ -1,5 +1,13 @@
+nav {
+  background: linear-gradient(to bottom, rgb(74,194,76) 0%, rgb(45,105,49) 59%, rgba(32, 80, 36, 0.829) 68%, rgb(22, 48, 29) 100%);
+}
+
+.btngreen {
+  background-color: #6cc86e;
+}
+
 .main-header {
-  background: url(../img/background.jpg);
+  background-color: #5bb85d;
   background-size: cover;
   background-position: center;
   min-height: 600px;
